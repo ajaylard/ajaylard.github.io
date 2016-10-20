@@ -1,1 +1,0 @@
-# ajaylard.github.io
