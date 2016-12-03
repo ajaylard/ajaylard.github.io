@@ -43,11 +43,11 @@ i:hover {
 
 p {
   font-size: 1em;
-  color: #a07512;
+  color: #fff;
   z-index: 5;
   position: absolute;
   left: 50%;
-  top: 80%;
+  top: 70%;
   transform: translate(-50%,-50%);
   text-align: center;
 }
@@ -63,19 +63,6 @@ footer {
 .about {
   text-align: center;
   padding: 0;
-}
-
-.work {
-  list-style-type: none;
-  display: inline;
-  color: #fff;
-  font-size: .8em;
-  z-index: 5;
-  position: absolute;
-  left: 85%;
-  top: 25%;
-  transform: translate(-50%,-50%);
-  text-align: center;
 }
 
 .project:hover {
